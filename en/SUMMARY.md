@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* REST API
+* [REST API](rest_api.md)
 
