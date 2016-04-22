@@ -13,9 +13,10 @@ The first parameter will be an action or sequence and the latter ones are parame
 ## Actions
 
 ### Login
-| URL | Params |
+| What | how |
 | -- | -- |
-| https://socialcube.net/api/login | Post var: username, password |
+| URL | https://socialcube.net/api/login |
+| 
 
 
 ### Logout
