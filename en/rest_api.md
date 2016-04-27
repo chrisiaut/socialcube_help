@@ -52,15 +52,20 @@ You can handle them as teachers but might also give them more permissions since 
 | Answer | {"STATUS":"OK","ANSWER":"users@mail.addr"} |
 
 
-### Courses
+### XP
 
-#### Get courses of user
-For privacy reasons you won't see the name of the course as entered by the teacher, just a distinct GUID.
+#### Get all XP of user
 
 | Attribute | Value |
 | -- | -- |
-| URL | https://socialcube.net/api/user/get_type |
-| Answer |  {} |
+| URL | https://socialcube.net/api/xp/get_xp |
+| Answer |  {"STATUS":"OK","ANSWER":"1271"} |
 
+Or if you want the XP the student got since a specific time (unix timestamp)
+
+| Attribute | Value |
+| -- | -- |
+| URL | https://socialcube.net/api/xp/get_xp |
+| Answer |  {"STATUS":"OK","ANSWER":"1271"} |
 
 ### Logout
