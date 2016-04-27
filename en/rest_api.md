@@ -61,11 +61,16 @@ You can handle them as teachers but might also give them more permissions since 
 | URL | https://socialcube.net/api/xp/get_xp |
 | Answer |  {"STATUS":"OK","ANSWER":"1271"} |
 
-Or if you want the XP the student got since a specific time (unix timestamp)
+##### Get XP **since** a specific time (unix timestamp)
 
 | Attribute | Value |
 | -- | -- |
-| URL | https://socialcube.net/api/xp/get_xp |
-| Answer |  {"STATUS":"OK","ANSWER":"1271"} |
+| URL | https://socialcube.net/api/xp/get_xp/since/1461790126 |
+| Answer |  {"STATUS":"OK","ANSWER":"0"} |
 
-### Logout
+##### Get XP **until** a specific time (unix timestamp)
+
+| Attribute | Value |
+| -- | -- |
+| URL | https://socialcube.net/api/xp/get_xp/until/1461790126 |
+| Answer |  {"STATUS":"OK","ANSWER":"1271"} |
