@@ -74,3 +74,26 @@ You can handle them as teachers but might also give them more permissions since 
 | -- | -- |
 | URL | https://socialcube.net/api/xp/get_xp/until/1461790126 |
 | Answer |  {"STATUS":"OK","ANSWER":"1271"} |
+
+#### Get XP of user in section
+
+This is mostly like the "get all XP of user" requests but in addition you have to provide the ID of a section. Section IDs can be aquired with the get_course_sections and courses with get_courses
+
+| Attribute | Value |
+| -- | -- |
+| URL | https://socialcube.net/api/xp/get_xp_in_section/-section ID- |
+| Answer |  {"STATUS":"OK","ANSWER":"51"} |
+
+##### Get XP **since** a specific time (unix timestamp)
+
+| Attribute | Value |
+| -- | -- |
+| URL | https://socialcube.net/api/xp/get_xp_in_section/-section ID-/since/1461790126 |
+| Answer |  {"STATUS":"OK","ANSWER":"0"} |
+
+##### Get XP **until** a specific time (unix timestamp)
+
+| Attribute | Value |
+| -- | -- |
+| URL | https://socialcube.net/api/xp/get_xp_in_section/-section ID-/until/1461790126 |
+| Answer |  {"STATUS":"OK","ANSWER":"1271"} |
