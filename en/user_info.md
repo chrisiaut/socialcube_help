@@ -1,5 +1,5 @@
 # User info
-## Get type of user
+
 On Socialcube there are 4 types of users and their IDs:
 - Admins
 - Institution Admin
@@ -16,6 +16,8 @@ On Socialcube there are 4 types of users and their IDs:
 The only one that needs explanation is the institution admin. This person is usually a teacher but also the one, who first requested access to Socialcube for their institution (school, university, etc..).
 
 You can handle them as teachers but might also give them more permissions since they are sort of the school-admins.
+
+## Get usertype
 
 | Attribute | Value |
 | -- | -- |
