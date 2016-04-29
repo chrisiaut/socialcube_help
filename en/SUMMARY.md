@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [GradeLink](rest_api.md)
-   * Fundamentals
+   * [Fundamentals](fundamentals.md)
 
