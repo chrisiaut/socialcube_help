@@ -1,10 +1,12 @@
 # User info
 
-On Socialcube there are 4 types of users and their IDs:
+On Socialcube there are 4 types of users:
 - Admins
 - Institution Admin
 - Teachers
 - Students
+
+These types can be identified by their user type id.
 
 | User Type | ID |
 | -- | -- |
@@ -16,6 +18,8 @@ On Socialcube there are 4 types of users and their IDs:
 The only one that needs explanation is the institution admin. This person is usually a teacher but also the one, who first requested access to Socialcube for their institution (school, university, etc..).
 
 You can handle them as teachers but might also give them more permissions since they are sort of the school-admins.
+
+Keep in mind to check if a user is a student or not. Only students can earn XP.
 
 ## Get user type
 
