@@ -17,7 +17,7 @@ The only one that needs explanation is the institution admin. This person is usu
 
 You can handle them as teachers but might also give them more permissions since they are sort of the school-admins.
 
-## Get usertype
+## Get user type
 
 | Attribute | Value |
 | -- | -- |
