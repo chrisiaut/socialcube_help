@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [GradeLink](rest_api.md)
    * [Fundamentals](fundamentals.md)
+   * Actions
 
