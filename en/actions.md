@@ -40,7 +40,14 @@ You can handle them as teachers but might also give them more permissions since 
 
 | Attribute | Value |
 | -- | -- |
-| URL | https://socialcube.net/api/xp/get_xp |
+| URL | https://socialcube.net/api/xp/get_sum |
+| Answer |  {"STATUS":"OK","ANSWER":"1271"} |
+
+#### Get detailed XP log
+
+| Attribute | Value |
+| -- | -- |
+| URL | https://socialcube.net/api/xp/get_details |
 | Answer |  {"STATUS":"OK","ANSWER":"1271"} |
 
 #### Get XP **since** a specific time (unix timestamp)
@@ -84,21 +91,21 @@ This is mostly like the "get all XP of user" requests but in addition you have t
 
 | Attribute | Value |
 | -- | -- |
-| URL | https://socialcube.net/api/xp/get_xp_in_section/-section ID- |
+| URL | https://socialcube.net/api/xp/get_section_xp/-section ID- |
 | Answer |  {"STATUS":"OK","ANSWER":"51"} |
 
 #### Get XP **since** a specific time (unix timestamp)
 
 | Attribute | Value |
 | -- | -- |
-| URL | https://socialcube.net/api/xp/get_xp_in_section/-section ID-/since/1461790126 |
+| URL | https://socialcube.net/api/xp/get_section_xp/-section ID-/since/1461790126 |
 | Answer |  {"STATUS":"OK","ANSWER":"0"} |
 
 #### Get XP **until** a specific time (unix timestamp)
 
 | Attribute | Value |
 | -- | -- |
-| URL | https://socialcube.net/api/xp/get_xp_in_section/-section ID-/until/1461790126 |
+| URL | https://socialcube.net/api/xp/get_section_xp/-section ID-/until/1461790126 |
 | Answer |  {"STATUS":"OK","ANSWER":"1271"} |
 
 ## Cubes
