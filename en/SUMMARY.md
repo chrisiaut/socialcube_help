@@ -7,4 +7,5 @@
        * [User info](user_info.md)
        * [XP](xp.md)
        * [Courses](courses.md)
+       * Cubes
 
