@@ -4,4 +4,5 @@
 * [GradeLink](rest_api.md)
    * [Fundamentals](fundamentals.md)
    * [Actions](actions.md)
+       * User info
 
