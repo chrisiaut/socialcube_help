@@ -1,6 +1,6 @@
 # Courses and sections
 
-### Get courses of user
+## Get courses of user
 
 The ```get_courses``` URL will return an array with the IDs of the courses.
 
@@ -9,7 +9,7 @@ The ```get_courses``` URL will return an array with the IDs of the courses.
 | URL | https://socialcube.net/api/courses/get_courses |
 | Answer | {"STATUS":"OK","ANSWER":["10"]} |
 
-### Get sections of course
+## Get sections of course
 
 This API call will return an array of all sections of the specified course. This includes the ID, name and maximum XP of this section.
 
