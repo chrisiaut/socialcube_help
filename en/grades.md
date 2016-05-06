@@ -8,7 +8,9 @@ The ```get_grades``` URL will return a percent value (0-100+) and requires you t
 
 If the value is **greater than 100** that means the student earned more XP than the maximum set by the teacher. This usually happens with highly motivated students who do more than the teacher asked for and the teacher is nice enough to give the student XP for his bonus work.
 
+In the next example we will request the grade of the user in course 15 and it will return the user has 77% of all possible XP.
+
 | Attribute | Value |
 | -- | -- |
-| URL | https://socialcube.net/api/grades/get_grades/-courseID- |
-| Answer | {"STATUS":"OK","ANSWER":["10"]} |
+| URL | https://socialcube.net/api/grades/get_grades/15 |
+| Answer | {"STATUS":"OK","ANSWER":77} |
