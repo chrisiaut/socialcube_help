@@ -8,4 +8,5 @@
        * [XP](xp.md)
        * [Courses](courses.md)
        * [Cubes](cubes.md)
+       * Grades
 
