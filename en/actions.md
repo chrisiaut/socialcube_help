@@ -1,12 +1,17 @@
 # Actions
 
 
-## User info
+## [User info](/user_info.html)
+Will give you info about the user who logged in using your app.
 
-## XP
+## [XP](/xp.html)
+Will give you detailed information on how many XP were earned by the user.
 
-## Courses
+## [Courses](/courses.html)
+Get a lost of all courses this user is a member of.
 
-## Cubes
+## [Cubes](/cubes.html)
+Get the amount of cubes of a user (explanation on the page).
 
-## Grades
+## [Grades](/grades.html)
+Gives you a percentage how many XP in comparison to the max XP a user got in a specific course. This should be your primary data source if you want to give the user special rewards for good grades.
