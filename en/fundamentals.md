@@ -35,7 +35,7 @@ Every course can have multiple **sections**. Sections are usually the topics the
 In these sections **XP** can be given to all students attending this course.
 
 ### Example
-A professor of MIT (=**Institution**) teaches "Advanced computer science" (=**Course**) and divides the course in the topics "cryptography", "bash scripting" and "game theory" (=**Sections**).
+A professor of MIT (**Institution**) teaches "Advanced computer science" (**Course**) and divides the course in the topics "cryptography", "bash scripting" and "game theory" (**Sections**).
 
 They give out an assignment in cryptography that will be graded in XP. Students who hand in the assignment receive a value of XP determined by the professor in the section cryptography.
 
