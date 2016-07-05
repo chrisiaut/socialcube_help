@@ -1,4 +1,4 @@
-# got_xp
+# Event: got_xp
 
 The "got_xp" event will be triggered whenever a student got XP by a teacher.
 
