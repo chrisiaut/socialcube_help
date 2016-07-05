@@ -29,3 +29,9 @@ Your webhook should respond with a URL the user will be redirected to. This is u
 ```
 http://your_app.yourdomain.dom/login/gradelink
 ```
+
+### Retries
+If the Socialcube server doesn't receive a valid URL it will automatically retry the webhook call 5 times with 10 minutes in between. This allows you not to miss any data when your server went down for a short time.
+
+### Timeout
+If your server doesn't answer for 10 seconds the connection is handled as failed and retry will be scheduled
