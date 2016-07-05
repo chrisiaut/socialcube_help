@@ -8,7 +8,7 @@ Will give you info about the user who logged in using your app.
 Will give you detailed information on how many XP were earned by the user.
 
 ## [Courses](/courses.html) (subjects)
-Get a lost of all courses this user is a member of. Courses are essentially the classes or subject the user is being graded in.
+Get a list of all courses this user is a member of. Courses are essentially the classes or subjects the user is being graded in.
 
 ## [Cubes](/cubes.html)
 Get the amount of cubes of a user (explanation on the page).
