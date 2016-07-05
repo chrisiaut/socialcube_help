@@ -23,4 +23,9 @@ The data your webhook will receive looks like this
 ```
 
 ## Response
-Your webhook should respond with a URL the user will be redirected to. This is usually some success page of your app or a login
+Your webhook should respond with a URL the user will be redirected to. This is usually some success page of your app or a page 
+
+### Example response by your webhook
+```
+http://your_app.yourdomain.dom/login/gradelink
+```
