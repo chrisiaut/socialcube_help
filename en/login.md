@@ -14,6 +14,7 @@ The data your webhook will receive looks like this
   {
     "id": "5abc23af", //alphanumeric string. should be used to identify user since email can be changed
     "email": "user@usersemailprovider.usr",
+    "user_token":"abcdefghijklmnopqrstuvwxyz", //save this token! You need this to make REST API requests
     "lang": "en", //language
     "timezone": 2, //timezone offset from GMT
     "usertype": 3, //0->admin,1->institution admin,2->teacher,3->student
