@@ -26,3 +26,5 @@ They give out an assignment in cryptography that will be graded in XP. Students 
 ## The goal
 
 The goal of this API is to create an interface between the students performance and external sites. If you are a game developer you can reward your students in your game when they get XP in school/university.
+
+## [Get started](/fundamentals.html)
