@@ -7,7 +7,7 @@ The "data" POST field is a JSON object which will include the event name and dat
 
 
 ## Events
-Currently there are three events that you can receive: login, got_xp and grade_levelup
-
-### login
-The "login" event will be sent to your webhook **only the first time** when a user linked their account to your app.
+Currently there are three events that you can receive:
+* login
+* got_xp
+* grade_levelup
