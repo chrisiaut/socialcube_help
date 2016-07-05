@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [GradeLink](rest_api.md)
+   * Webhooks
    * [Fundamentals](fundamentals.md)
        * Webhooks
    * [REST API](actions.md)
