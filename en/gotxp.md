@@ -14,6 +14,9 @@ The data your webhook will receive looks like this
   {
     "id": "5abc23af", //alphanumeric string. should be used to identify user since email can be changed
     "xp": 25, //amount of XP received
+    "xp_course": 100, //amount of XP the student got in this course
+    "max_xp_course": 200, //max XP the user can earn in this course
+    "xp_percent": 50, //amount of max XP in percent the student has in this course
     "course": 48, //ID of course (class) where user got the XP from
     "institution": 5 //ID of the institution where the course is in
   }
