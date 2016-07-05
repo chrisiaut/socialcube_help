@@ -1,4 +1,4 @@
-# grade_levelup
+# Event: grade_levelup
 
 The "grade_levelup" event will be triggered whenever a student upgrades their grade by getting XP. This will always be triggered immediately after a got_xp event (if the student got enough XP to level up their grade)
 
