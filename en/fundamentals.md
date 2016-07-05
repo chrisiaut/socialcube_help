@@ -21,8 +21,6 @@ So let's say you own the domain ```http://socialcube.testapp.app``` and a user l
 
 The user receives XP in their class so the Socialcube server sends a POST request to the webhook you defined (eg ```http://socialcube.testapp.app/webhook.php```) which contains the info which student got how many XP.
 
-#### Webhook calls
-
 ### [REST API](/actions.html)
 GradeLink is a REST API. The base URL for your requests is:
 
