@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [GradeLink](rest_api.md)
    * [Webhooks](webhooks.md)
-       * login
+       * [login](login.md)
        * got_xp
        * grade_levelup
    * [Fundamentals](fundamentals.md)
