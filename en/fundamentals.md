@@ -32,7 +32,7 @@ The first parameter will be an action or sequence and the latter ones are parame
 
 **!!! Every request has to include the following variables (POST or GET) !!!**
 - api_key (the key of your app)
-- user_token (the token of the user)
+- user_token (the token of the user. Obtained by the [login webhook event](/login.html))
 
 All unix timestamps you send to the API are assumed to be in GMT+0
 
