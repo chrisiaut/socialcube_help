@@ -1,6 +1,6 @@
 # login
 
-The "login" event will be sent to your webhook **only the first time** when a user linked their account to your app.
+The "login" event will be sent to your webhook **only the first time** when a user linked their account to your app/game/website.
 
 ## Webhook data
 
