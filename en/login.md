@@ -24,7 +24,7 @@ The data your webhook will receive looks like this
 ```
 
 ## Response
-Your webhook should respond with a URL the user will be redirected to. This is usually some success page of your app or a page 
+Your webhook should respond with a **URL** the user will be redirected to. This is usually some success page of your app or a page. You can add GET variables to it if you want to.
 
 ### Example response by your webhook
 ```
