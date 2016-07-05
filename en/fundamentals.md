@@ -12,7 +12,7 @@ The Socialcube GradeLink API can be used in two ways. Via Webhooks and via a RES
 
 The Webhook method is the preferred method although you can get more details with the REST API.
 
-### Webhooks (easy start)
+### [Webhooks](/webhooks.html) (easy start)
 
 #### What is a webhook?
 To put it simple: A webhook is a web-accessible script that you own and host, which will receive data from the Socialcube server whenever an event happens like "user got XP".
@@ -23,7 +23,7 @@ The user receives XP in their class so the Socialcube server sends a POST reques
 
 #### Webhook calls
 
-### REST API
+### [REST API](/actions.html)
 GradeLink is a REST API. The base URL for your requests is:
 
 ### ```https://socialcube.net/api/<ACTION>/<PARAMETERS>```
