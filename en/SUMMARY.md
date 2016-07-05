@@ -5,6 +5,7 @@
    * [Webhooks](webhooks.md)
        * login
        * got_xp
+       * grade_levelup
    * [Fundamentals](fundamentals.md)
        * Webhooks
    * [REST API](actions.md)
