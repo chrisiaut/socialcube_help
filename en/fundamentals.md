@@ -22,7 +22,7 @@ So let's say you own the domain ```http://socialcube.testapp.app``` and a user l
 The user receives XP in their class so the Socialcube server sends a POST request to the webhook you defined (eg ```http://socialcube.testapp.app/webhook.php```) which contains the info which student got how many XP.
 
 ### [REST API](/actions.html)
-The REST API can be called proactively by your server/scripts. The base URL for your requests is:
+The REST API can be called proactively by your server/scripts. The base URL for requests is:
 
 ### ```https://socialcube.net/api/<ACTION>/<PARAMETERS>```
 
