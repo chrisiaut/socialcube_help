@@ -4,7 +4,7 @@
 * [GradeLink](rest_api.md)
    * [Webhooks](webhooks.md)
        * [login](login.md)
-       * got_xp
+       * [got_xp](gotxp.md)
        * grade_levelup
    * [Fundamentals](fundamentals.md)
        * Webhooks
