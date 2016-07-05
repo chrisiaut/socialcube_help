@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* Webhooks
 * [GradeLink](rest_api.md)
+   * Webhooks
    * Webhooks
    * [Fundamentals](fundamentals.md)
        * Webhooks
