@@ -22,7 +22,7 @@ So let's say you own the domain ```http://socialcube.testapp.app``` and a user l
 The user receives XP in their class so the Socialcube server sends a POST request to the webhook you defined (eg ```http://socialcube.testapp.app/webhook.php```) which contains the info which student got how many XP.
 
 ### [REST API](/actions.html)
-GradeLink is a REST API. The base URL for your requests is:
+The REST API can be called proactively by your server/scripts. The base URL for your requests is:
 
 ### ```https://socialcube.net/api/<ACTION>/<PARAMETERS>```
 
@@ -35,6 +35,4 @@ The first parameter will be an action or sequence and the latter ones are parame
 All unix timestamps you send to the API are assumed to be in GMT+0
 
 The API key has to be requested by every developer and app. The user token will be provided if the user logged in and accepted your app.
-
-### [Check out what the API can do](/actions.html)
 
