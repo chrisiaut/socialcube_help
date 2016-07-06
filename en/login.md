@@ -32,7 +32,7 @@ http://your_app.yourdomain.dom/login/gradelink
 ```
 
 ### Retries
-If the Socialcube server doesn't receive a "200" it will automatically retry the webhook call 5 times with 10 minutes in between. This ensures that you don't miss any data when your server goes down for a short time.
+If the Socialcube server doesn't receive a valid **URL** it will automatically retry the webhook call 5 times with 10 minutes in between. This ensures that you don't miss any data when your server goes down for a short time.
 
 ### Timeout
 If your server doesn't answer for 10 seconds the connection is handled as failed and retry will be scheduled
