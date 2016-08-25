@@ -26,4 +26,13 @@ To specify a DNS server address, select **Use the following DNS server addresses
 
 ![Change DNS Windows](https://www.pictshare.net/461d17df4f.png)
 
-## Windows Server (DNS Server role)
+## Windows Server 2003 - 2016 (DNS Server role)
+
+1. Open DNS Manager.
+2. In the console tree, click the applicable DNS server.
+3. On the Action menu, click Properties.
+4. On the Forwarders tab, click the "Edit" button.
+5. Add the IP of the WEGA DNS on the **first position**.
+6. Add external DNS Servers (like google's 8.8.8.8) **after** the WEGA IP so that if WEGA ever fails the internet would still work for your users.
+
+![Windows Server DNS forwarder settings](https://www.pictshare.net/5a26926752.jpg)
