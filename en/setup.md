@@ -29,6 +29,8 @@ To specify a DNS server address, select **Use the following DNS server addresses
 ## Windows Server 2003 - 2016 (DNS Server role)
 This should be done on the networks (last) DNS server. All external client requests should go through this server in order to protect your network.
 
+If you have redundant DNS servers you can repeat these steps on every DNS in your network.
+
 1. Open DNS Manager.
 2. In the console tree, click the applicable DNS server.
 3. On the Action menu, click Properties.
