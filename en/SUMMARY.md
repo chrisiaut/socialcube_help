@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [WEGA Webfilter](wega_webfilter.md)
-   * setup
+   * [setup](setup.md)
 * [GradeLink](rest_api.md)
    * [Fundamentals](fundamentals.md)
    * [Webhooks](webhooks.md)
