@@ -10,7 +10,6 @@ If you haven't already done it, activate WEGA via the [Institution modules page]
 * [Windows Server](#windowsserver)
 * [Linux](#linux)
 
-
 ## <a name="windows"></a>Windows 7-10
 
 ### Step 1
