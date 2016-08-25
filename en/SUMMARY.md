@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-   * WEGA Webfilter
 * [GradeLink](rest_api.md)
+   * WEGA Webfilter
    * [Fundamentals](fundamentals.md)
    * [Webhooks](webhooks.md)
        * [login](login.md)
