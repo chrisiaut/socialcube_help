@@ -39,3 +39,11 @@ If you have redundant DNS servers you can repeat these steps on every DNS in you
 6. Add external DNS Servers (like google's 8.8.8.8) **after** the WEGA IP so that if WEGA ever fails the internet would still work for your users.
 
 ![Windows Server DNS forwarder settings](https://www.pictshare.net/5a26926752.jpg)
+
+
+## Linux
+This should be done on either all clients or your networks primary DNS server (router).
+
+1. Edit the /etc/resolv.conf file and add the IP you got from the [WEGA Settings page](https://www.socialcube.net/wega/settings)
+
+Note that if you add multiple Servers Linux won't use them in the order you wrote them but it will alternate or even use both at the same time so if you enter multiple IPs, the filter might only work in 50% of the requests.
