@@ -10,7 +10,7 @@ If you haven't already done it, activate WEGA via the [Institution modules page]
 * [Windows Server](#windowsserver)
 * [Linux](#linux)
 
-## <a name="windows"></a>Windows 7-10
+## <a id="windows"></a>Windows 7-10
 
 ### Step 1
 
@@ -31,7 +31,7 @@ To specify a DNS server address, select **Use the following DNS server addresses
 
 ![Change DNS Windows](https://www.pictshare.net/461d17df4f.png)
 
-## <a name="windowsserver"></a> Windows Server 2003 - 2016 (DNS Server role)
+## <a id="windowsserver"></a>Windows Server 2003 - 2016 (DNS Server role)
 This should be done on the networks (last) DNS server. All external client requests should go through this server in order to protect your network.
 
 If you have redundant DNS servers you can repeat these steps on every DNS in your network.
@@ -46,7 +46,7 @@ If you have redundant DNS servers you can repeat these steps on every DNS in you
 ![Windows Server DNS forwarder settings](https://www.pictshare.net/5a26926752.jpg)
 
 
-## <a name="linux"></a>Linux
+## <a id="linux"></a>Linux
 This should be done on either all clients or your networks primary DNS server (router).
 
 1. Edit the /etc/resolv.conf file and add the IP you got from the [WEGA Settings page](https://www.socialcube.net/wega/settings)
