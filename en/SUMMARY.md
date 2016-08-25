@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * WEGA Webfilter
 * [GradeLink](rest_api.md)
    * [Fundamentals](fundamentals.md)
    * [Webhooks](webhooks.md)
