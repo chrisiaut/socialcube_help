@@ -5,7 +5,7 @@ W.E.G.A (Web Enrichment GuArd) is a powerful DNS based web filtering solution fo
 
 Since the integration in Socialcube, WEGA has become much easier to use and setup. You can get started in as few as 2 minutes after activating WEGA and no matter how big your network is, every client (even mobile phones, smart TV's and yes even printers are automatically secured.
 
-If you want to know how to set WEGA up on your machine or network, head over to the [SETUP](/setup.html) page.
+If you want to know how to set WEGA up on your machine or network, head over to the [SETUP](setup.md) page.
 
 ## WEGA as an Adblocker
 You can use WEGA as an ad blocker for all devices. When you select the "ads" category on the WEGA Setup page every device in your network will be ad free.
