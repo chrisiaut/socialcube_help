@@ -5,7 +5,7 @@ To set up WEGA you need the IP address of the WEGA DNS Server. Head over to http
 
 If you haven't already done it, activate WEGA via the [Institution modules page](https://socialcube.net/institution/modules). This can only be done by the institution admin of your institution.
 
-## Windows 7-10
+## <a name="windows"></a>Windows 7-10
 
 ### Step 1
 
@@ -41,7 +41,7 @@ If you have redundant DNS servers you can repeat these steps on every DNS in you
 ![Windows Server DNS forwarder settings](https://www.pictshare.net/5a26926752.jpg)
 
 
-## Linux
+## <a name="linux"></a>Linux
 This should be done on either all clients or your networks primary DNS server (router).
 
 1. Edit the /etc/resolv.conf file and add the IP you got from the [WEGA Settings page](https://www.socialcube.net/wega/settings)
