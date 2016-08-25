@@ -25,3 +25,5 @@ Select the **Networking tab**. Under This connection uses the following items, s
 To specify a DNS server address, select **Use the following DNS server addresses**, and then, in the Preferred DNS server type the address of the primary the WEGA webfilter you received from the [WEGA Settings page](https://www.socialcube.net/wega/settings)
 
 ![Change DNS Windows](https://www.pictshare.net/461d17df4f.png)
+
+## Windows Server (DNS Server role)
