@@ -1,7 +1,7 @@
 # WEGA Webfilter
 
 ## Introduction
-W.E.G.A (Web Enrichment GuArd) is a powerful DNS based web filtering solution for private homes, schools and companies. The project was started in 2014 by [Haschek Solutions](https://haschek.solutions) and is now part of Socialcube.
+W.E.G.A (Web Enrichment GuArd) is a powerful DNS based web filtering solution for private homes, schools and companies with rich statistics and graphs. The project was started in 2014 by [Haschek Solutions](https://haschek.solutions) and is now part of Socialcube.
 
 Since the integration in Socialcube, WEGA has become much easier to use and setup. You can get started in as few as 2 minutes after activating WEGA and no matter how big your network is, every client (even mobile phones, smart TV's and yes even printers are automatically secured.
 
