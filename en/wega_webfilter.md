@@ -21,4 +21,4 @@ Over the last year, half a million malware requests have been blocked by WEGA.
 
 At the moment the following categories can be filtered:
 
-![WEGA filter rules](https://www.pictshare.net/fbbbfe7d89.jpg)
+![WEGA filter rules](https://www.pictshare.net/f25af3fdfc.jpg)
