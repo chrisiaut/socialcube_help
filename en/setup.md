@@ -1,9 +1,11 @@
 # Setup
 
 ## Get the WEGA IP address
-To set up WEGA you need the IP address of the WEGA DNS Server. Head over to https://www.socialcube.net/wega where the IP address will be displayed.
+To set up WEGA you need the IP address of the WEGA DNS Server. Head over to [https://www.socialcube.net/wega/settings](https://www.socialcube.net/wega/setting) where the IP address will be displayed.
 
-If you haven't already done it, activate WEGA via the [Institution modules page](https://socialcube.net/institution/modules). This can only be done by the institution admin of your institution.
+If you haven't already done it, activate WEGA via the [Institution modules page](https://socialcube.net/institution/modules). This can only be done by the **institution admin** of your institution.
+
+On the Wega settings page you need to enter the external IP addresses of your network, then change the filter rules as you wish and click the save button. After that the IP address of the WEGA DNS server will be displayed to you.
 
 ## Setup by platform
 * [Windows 7-10](#windows)
